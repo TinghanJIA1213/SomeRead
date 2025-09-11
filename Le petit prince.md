@@ -62,3 +62,18 @@ ils/elles eurent
 - brusquement 来自动词 brusquer（突然推动、猛然对待），意思是 突然地、猛然地、粗暴地
 
 - hocher（摇头/点头）
+
+- s’enfoncer 沉下去、陷入、深入、钻进
+
+- rêverie（名词）
+
+👉 白日梦、幻想、沉思
+
+Être en rêverie.
+出神，发呆。
+
+- intriguer = 引起兴趣 / 激起好奇心；也可以是施阴谋
+
+- une demi-confidence 就是 半吐半露的心事
+
+- méditatif（形容词）来自动词 méditer（沉思、冥想）
