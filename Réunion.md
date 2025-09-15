@@ -31,18 +31,32 @@ Toujours concernant le végétal, il faudrait compléter le propos sur la réact
 
 ```Carte des préverdissements faite, à discuter.```
 
-## Objectif notre côté:
--
--
--
-## Objectif leur côté:
-### Réponse des questions (Réponses au-desuss)
--
--
--
-## Négociable
-## Non-négo.
-## Résultat prévu
+## Objectifs de notre côté:
+- DEFENSE DE NOTRE REPONSE PRECEDENTES
+- Explication des choix de végétaux
+- **Action**
 
+## Objectifs de leur côté:
+- Réponse de ses questions (Réponses au-desuss)
+- ...
+
+## Négociable
+- inclusif -> certain proportion（acceptabilité）
+
+## Non-négo. (on a le droit de refuser)
+- ...
+
+## Résultat prévu
+- 
 
 ## samll talk & technique d'aborder
+
+### samll talk
+- se présenter (Yuihui, Arpentère, Thibault est en déplacement) (Il a déménagé au Sud)
+
+
+    ...
+
+
+- Si vous pouvez faire un compte rendu pour moi afin que je puisse clarifier les demandes
+- **Action**
