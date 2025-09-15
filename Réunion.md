@@ -1,12 +1,10 @@
 # Réunion avec client - Yuhui
-## Contest
+## Context
 
 Pour ce qui est des reprises qui vous concernent, voici une liste dont nous rediscuterons demain :
 
 la MOA souhaite finalement une contre-allée pour le dépose minute de l'école sur l'avenue François Mitterrand, il faudra donc reprendre le plan des espaces publics
-‘’‘
-Plan masse mis à jour avec contre-allée page 27, 28 et vue perspective modifiée page 8 et "Notice de qualité des espaces publics".
-’‘’
+‘’‘Plan masse mis à jour avec contre-allée page 27, 28 et vue perspective modifiée page 8 et "Notice de qualité des espaces publics".’‘’
 l'avenue François Mitterrand risque d'etre élargie pour ajouter une bande cyclable mais je dois faire un point avec Sylvain pour que l'on voit ça ensemble.
 '''
 Pas de suite car finalement pas de piste cyclable sur F. Mitterrand.
